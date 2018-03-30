@@ -1,0 +1,2 @@
+sprzet: mikrofon ze sluchawek urabnears
+program: Audacity pod Win10

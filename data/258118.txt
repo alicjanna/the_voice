@@ -1,0 +1,3 @@
+Model: Huawei P8 Lite ALE-L21
+System: Android 6.0
+Aplikacja: Voice Recorder 2.0.13
